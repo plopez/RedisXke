@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 11.0.2 for binding GitHub repository
+Acknowledgements
+The architecture of this project was based on the Mongo-Tomcat-Sessions project found at https://github.com/dawsonsystems/Mongo-Tomcat-Sessions and Redis-Session-Manager project found at https://github.com/jcoleman/tomcat-redis-session-manager
